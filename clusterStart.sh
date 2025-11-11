@@ -20,7 +20,7 @@ usage() {
       echo "  change-ip:   Automatically change the IP address of the node in all 5 sonar.properties files"
       echo "  clean-logs:  Delete all logs files"
       echo "  clean-es:    Delete all ES indexes to trigger ES reindex"
-      echo ""
+      echo "Yippee!"
 }
 
 case $action in
